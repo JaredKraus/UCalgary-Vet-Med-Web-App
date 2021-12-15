@@ -1,5 +1,6 @@
 # Front End
-The following images show our front end, which we developed using React.js and Bootstrap. 
+
+The following images show our front end, which we developed using React.js and Bootstrap.
 
 1. Login Page<br>![](frontend/loginpage.png)<br>
 2. Home Page<br>![](frontend/homepage.png)<br>
@@ -15,10 +16,14 @@ The following images show our front end, which we developed using React.js and B
 9. Animal Class visit Dashboard<br>
    1. this dashboard is used to schedule animals for classroom visits<br>![](frontend/animalbookings.png)<br>
 10. User Management Dashboard<br>![](frontend/usermanagement.png)<br>
-11. Treatment Form<br>
-    1. this is used to add a specific treatment for an animal's medical issue<br>
-    2. ex. Giving an animal a checkup, to check on their broken leg<br>![](frontend/treatmentForm.png)<br>
-12. Individual Medical issue form<br>
+11. Animal Status Dashboard<br>![](frontend/animalstatusdashboard.png)<br>
+
+12. Comment Form<br>
+    1. this is used to add a specific comment for an animal's medical issue<br>
+    2. ex. Giving an animal a checkup, to check on their broken leg<br>![](frontend/commentform.png)<br>
+13. Individual Medical issue form<br>
     1. Used to create a new medical issue<br>
     2. Ex. you'd open a new issue if an animal broke their leg<br>![](frontend/individualMedicalIssueForm.png)<br>
-13. Classroom booking request form<br>![](frontend/visitrequestform.png)<br>
+14. Classroom booking request form<br>![](frontend/visitrequestform.png)<br>
+15. Add a new animal form<br>![](frontend/newanimalform.png)<br>
+16. Add a new user form<br>![](frontend/adduserform.png)<br>
