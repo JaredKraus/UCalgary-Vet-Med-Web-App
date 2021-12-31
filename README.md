@@ -8,22 +8,22 @@ https://youtu.be/c4xvzu-GU7c
 ## Wireframes
 The following document gives all the wireframes our team generated using Figma, in the process of planning
 the front end of our application.<br>
-[Wireframes](MarkdownAndImages/Wireframes.md)<br>
+[Wireframes](markdown/Wireframes.md)<br>
 
 ## API
 The following document outlines details regarding our API for the project.
 It is built using the Spring Boot Framework, and connecting to a MySQL database.<br>
-[Project API Documentation](MarkdownAndImages/API.md)<br>
+[Project API Documentation](markdown/API.md)<br>
 
 ## Animal Booking Logic
 As apart of a hackathon related to this project, we implemented detailed
 logic for booking animals for classroom visits. This process is outlined in the following document.<br>
-[Animal Booking Workflow](MarkdownAndImages/animalBooking.md)<br>
+[Animal Booking Workflow](markdown/animalBooking.md)<br>
 
 ## Front End
 The following document shows our completed front end, written in React.js.<br>
-[Front End](MarkdownAndImages/FrontEnd.md)<br>
+[Front End](markdown/FrontEnd.md)<br>
 
 ## Database Design
 The following document outlines our database design.<br>
-[Database Design](MarkdownAndImages/DatabaseDesign.md)<br>
+[Database Design](markdown/DatabaseDesign.md)<br>
